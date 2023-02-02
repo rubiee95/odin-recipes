@@ -1,2 +1,1 @@
-# odin-recipes
-Recipe website creation using HTML
+Recipe Website to practice html skills learned. 
