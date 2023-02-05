@@ -1,0 +1,58 @@
+/*For Recipe Title*/
+h1 {
+    font-family:Verdans, sans-serif;
+    font-size: 40px;
+    text-align: center; 
+}
+
+.recipe-names{
+    font-family: Arial,sans-serif;
+    font-size: 18px
+}
+
+.recipe-image{
+    height:auto;
+    width: 600px;
+}
+
+.recipe-description{
+    font-family:Arial,sans-serif;
+    font-size:18px;
+}
+
+/* For Ingredients and Steps title*/
+h2 {
+    font-family:Arial,sans-serif;
+    font-size:25px;
+    font-weight:bold;
+}
+
+li{
+    font-family:Arial,sans-serif;
+    font-size:18px;
+}
+
+div.polaroid{
+    width:80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 25px;
+}
+
+div.container{
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.button1{
+    background-color:rgb(238,238,238);
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
